@@ -21,3 +21,5 @@ do
 	read bucle
 	
 done
+
+exit 10
