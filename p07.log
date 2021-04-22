@@ -1,0 +1,4 @@
+/var/log/user.log:Apr 22 16:25:25 dafepe-m06 vboxadd-service.sh: Starting VirtualBox Guest Addition service.
+/var/log/user.log:Apr 22 16:25:25 dafepe-m06 vboxadd-service.sh: VirtualBox Guest Addition service started.
+/var/log/user.log:Apr 22 16:25:35 dafepe-m06 clock-applet[1251]: Negative content width -7 (allocation 1, extents 4x4) while allocating gadget (node button, owner GtkToggleButton)
+/var/log/user.log:Apr 22 16:25:35 dafepe-m06 NetworkManager[434]: <info>  [1619101535.5860] agent-manager: req[0x56415e755ea0, :1.87/org.freedesktop.nm-applet/1000]: agent registered
